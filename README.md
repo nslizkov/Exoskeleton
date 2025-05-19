@@ -1,1 +1,2 @@
-"# Exoskeleton" 
+Slizkov N.A. Creating a three-dimensional model on the topic: "Exoskeleton" / Course work on the discipline "Tools for the development of functionality and design of computer games and multimedia applications" profile "Development and design of computer games and multimedia applications" Bachelor's degree program 09.03.04 "Software Engineering" (6th semester) / head senior lecturer A.N. Chernigin / Department of GI Institute of IT RTU MIREA.
+The purpose of the course work is to analyze the subject area, form requirements for the model, select tools and create a three-dimensional model on the topic of "Exoskeleton" according to the pipeline of game model development and to test the created model in the game engine.
